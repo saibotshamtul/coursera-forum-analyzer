@@ -1,5 +1,5 @@
 # Coursera Forum Analyzer
-Get staff coverage stats on a peer-week basis.
+Get staff coverage stats on a per-week basis.
 
 ## Dependencies
 ```
